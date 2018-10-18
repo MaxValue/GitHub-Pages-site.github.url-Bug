@@ -1,3 +1,5 @@
+---
+---
 # GitHub-Pages-Bug
 _test repository demonstrating the bug_
 
