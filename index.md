@@ -10,12 +10,12 @@ and also verifies the presence of this bug.
 ###### {{ site.github.url }}
 
 ### Hardcoded Link
-###### https://maxvalue.github.io/GitHub-Pages-site.github.url-Bug/
+###### https://maxvalue.github.io/GitHub-Pages-site.github.url-Bug
 
 The above 2 links should be exactly the same.
 
 ## Status:
-{% if site.github.url == "https://maxvalue.github.io/GitHub-Pages-site.github.url-Bug/" %}
+{% if site.github.url == "https://maxvalue.github.io/GitHub-Pages-site.github.url-Bug" %}
 <p style="color:white;background-color:green">The bug has been fixed!</p>
 {% else %}
 <p style="color:black;background-color:red">This bug is present.</p>
