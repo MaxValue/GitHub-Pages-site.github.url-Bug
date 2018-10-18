@@ -20,3 +20,9 @@ The above 2 links should be exactly the same.
 {% else %}
 <p style="color:black;background-color:red">This bug is present.</p>
 {% endif %}
+
+## Further Infos
+This bug has been noticed on project AND user pages.
+
+As it turns out this bug is only present if you build your GitHub Pages site locally without
+any GitHub API key set.

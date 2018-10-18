@@ -20,3 +20,6 @@ The above 2 links should be exactly the same.
 
 ## Further Infos
 This bug has been noticed on project AND user pages.
+
+As it turns out this bug is only present if you build your GitHub Pages site locally without
+any GitHub API key set.
