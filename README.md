@@ -18,12 +18,5 @@ and also verifies the presence of this bug.
 
 The above 2 links should be exactly the same.
 
-## Status:
-{% if site.github.url == "https://maxvalue.github.io/GitHub-Pages-site.github.url-Bug/" %}
-&#x2B55; The bug has been fixed!
-{% else %}
-&#x274C; This bug is present.
-{% endif %}
-
 ## Further Infos
 This bug has been noticed on project AND user pages.
