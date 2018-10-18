@@ -1,0 +1,6 @@
+title: GitHub Pages Testing Site for "site.github.url" bug
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
